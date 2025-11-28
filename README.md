@@ -1,6 +1,6 @@
 # L6-ADS
 ### Description
-This repository contains all the **data ources and the script files** provide and created for the assignmnet of the module ***COMP669 – Advance Database Systems – 15781 – AUT -202510***
+This repository contains all the **data sources and the script files** provided and created for the assignmnet of the module ***COMP669 – Advance Database Systems – 15781 – AUT -202510***
 
 ### Data Sources and Script Files
 
