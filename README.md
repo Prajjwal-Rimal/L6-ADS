@@ -10,3 +10,6 @@ This repository contains all the **data sources and the script files** provided 
 | PRCS_insert_test_data | .sql | contains the data fields for the PRCS database |
 | PRCS | sql | outlines the structure of the PRCS crime database |
 | PS_wales | sql | database management system for Wales with data provideds |
+| STAR SCHEMA | sql | Apex oracle sql code for the star schema |
+| qsee data mart (SS)_drop | sql | qsee generated drop table code for star schema |
+| qsee data mart (SS) | sql | qsee generated code for star schema |
